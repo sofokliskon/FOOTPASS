@@ -1,0 +1,9 @@
+# Python 3.11.5 (per FOOTPASS README)
+torch==2.1.0
+torchvision==0.16.0
+albumentations==2.0.8
+numpy==1.26.*
+opencv-python==4.11.*
+decord==0.6.0
+h5py==3.14.*
+torch_geometric==2.6.1
